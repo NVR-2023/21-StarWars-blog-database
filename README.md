@@ -1,3 +1,11 @@
+***************************************************************************************************************
+Exercise #20': StarWars blog database model with SQLAlchemy. Generates diagram.png file depicting relationships between tables  
+By Nuno Rodrigues
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
 <!--hide-->
 # StarWars blog database
 <!--endhide-->
